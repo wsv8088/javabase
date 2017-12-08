@@ -42,7 +42,7 @@
             <!--<AppenderRef ref="RollingFile"/>-->
         </Root>
         <!-- 为sql语句配置特殊的Log级别，方便调试 -->
-        <Logger name="com.wsun.javabase.thread" level="info" additivity="false">
+        <Logger name="com.wsun.javabase.concurrent" level="info" additivity="false">
             <AppenderRef ref="Console"/>
         </Logger>
     </Loggers>

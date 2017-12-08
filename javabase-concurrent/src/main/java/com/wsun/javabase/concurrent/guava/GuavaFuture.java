@@ -1,4 +1,4 @@
-package com.wsun.javabase.thread.guava;
+package com.wsun.javabase.concurrent.guava;
 
 import com.google.common.util.concurrent.*;
 import org.apache.commons.lang.math.RandomUtils;
