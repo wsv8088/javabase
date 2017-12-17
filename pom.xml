@@ -8,6 +8,7 @@
     <modules>
         <module>javabase-dp</module>
         <module>javabase-concurrent</module>
+        <module>javabase-core</module>
     </modules>
     <name>javabase-parent</name>
 
